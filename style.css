@@ -99,6 +99,32 @@ body {
     overflow: hidden;
 }
 
+#slide-2 {
+    background: url("image/sejarah-muhammadiyah.jpg") fixed center center;
+    z-index: -999;
+    width: 1450px;
+    float: left;
+    background-size: cover;
+    padding: 280px 0 180px;
+}
+#slide-3 {
+    background: url("image/berita-awall.jpg                     ") fixed center center;
+    z-index: -999;
+    width: 1450px;
+    float: left;
+    background-size: cover;
+    padding: 280px 0 180px;
+}
+#slide-4 {
+    background: url("image/galeri-tes.jpg") fixed center center;
+    z-index: -999;
+    width: 1450px;
+    float: left;
+    background-size: cover;
+    padding: 280px 0 180px;
+}
+
+
 .slider-controller {
     text-align: center;
     margin-top: -50px;
