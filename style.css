@@ -124,6 +124,14 @@ body {
     padding: 280px 0 180px;
 }
 
+#slide-5 {
+    background: url("image/bg-awal.jpg") fixed center center;
+    z-index: -999;
+    width: 1450px;
+    float: left;
+    background-size: cover;
+    padding: 280px 0 180px;
+}
 
 .slider-controller {
     text-align: center;
@@ -753,6 +761,18 @@ body {
     display: flex;
     max-width: 100%;
     height: 400px;
+}
+
+/* VISIMISI */
+.content-awal-visi {
+    z-index: -999;
+    background: url("image/bg-awal.jpg") fixed center center;
+    float: left;
+    width: 100%;
+    background-size: cover;
+    padding: 290px 0 200px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 .visi-misi {
