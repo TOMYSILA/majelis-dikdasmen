@@ -2,6 +2,7 @@
   .judul {
     font-size: 24px;
 }
+
 .btn-awal a {
   font-size: 18px;
   padding: 8px;
@@ -162,10 +163,28 @@
 .berita h4 {
   font-size: 15px;
 }
+
+.contact-wrapper {
+  width: 98%;
+}
+.contact-1 h2{
+  color: #202020;
+  font-size: 17px;
+}
+.contact-1 .desk {
+  margin-left: 35px;
+  font-size: 13px;
+}
+.contact-1 img{
+  width: 15px;
+}
 }
 
 
 @media screen and (max-width:1460px) {
+  .contact-wrapper {
+    width: 58%;
+  }
   .content-2{
     width:100%;
   }
@@ -174,6 +193,7 @@
   .card-cntn1{
     width : auto;
   }
+
   .content-koordinasi, .card-koordinasi{
     display: block;
   }
