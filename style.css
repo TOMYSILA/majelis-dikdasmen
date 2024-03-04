@@ -796,7 +796,7 @@ body {
 
 .visi-misi h1 {
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     text-align: center;
     margin-bottom: -20px;
     font-weight: 1000;
@@ -806,8 +806,9 @@ body {
     border-bottom: solid 4px rgb(0, 163, 125);
 }
 
-.visi-misi summary {
+.visi-misi h2 {
     margin: 0 auto;
+    margin-top: 30px;
     cursor: pointer;
     background-color: rgba(5, 150, 116);
     color: white;
